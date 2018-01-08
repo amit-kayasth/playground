@@ -1,5 +1,5 @@
 const arr = [1, 2, 3, 4];
 
-const square = arr.map(x => x * x);
+const square = arr.map(x => x * x); // Comment
 
 console.log(square);
